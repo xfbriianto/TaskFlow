@@ -2,7 +2,7 @@
 
 TaskFlow adalah aplikasi manajemen tugas modern yang dibangun dengan React, TypeScript, dan Tailwind CSS. Aplikasi ini dirancang untuk membantu tim dan individu mengelola tugas mereka dengan lebih efisien dan produktif.
 
-![TaskFlow Preview](/images/TaskFlow.png)
+![TaskFlow Preview](public/images/TaskFlow.png)
 
 ## ✨ Fitur Utama
 
