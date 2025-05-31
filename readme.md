@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/70a2aea7-030a-48a7-a65b-d9defb0912e0)# 🚀 TaskFlow - Aplikasi Manajemen Tugas Modern
+# 🚀 TaskFlow - Aplikasi Manajemen Tugas Modern
 
 TaskFlow adalah aplikasi manajemen tugas modern yang dibangun dengan React, TypeScript, dan Tailwind CSS. Aplikasi ini dirancang untuk membantu tim dan individu mengelola tugas mereka dengan lebih efisien dan produktif.
 
-![TaskFlow Preview](https://via.placeholder.com/800x400?text=TaskFlow+Preview)
+![TaskFlow Preview](/images/TaskFlow.png)
 
 ## ✨ Fitur Utama
 
@@ -33,7 +33,7 @@ TaskFlow adalah aplikasi manajemen tugas modern yang dibangun dengan React, Type
 
 1. Clone repositori
 ```bash
-git clone https://github.com/xfbriianto/TaskFlow
+git clone https://github.com/username/taskflow.git
 cd taskflow
 ```
 
@@ -98,9 +98,9 @@ Distribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut
 
 ## 📞 Kontak
 
-Avail Dwi Febrianto - [@avdprojecthub]
+Avail Dwi Febrianto - [@availdwi](https://twitter.com/availdwi)
 
-Link Proyek: [https://github.com/xfbriianto/TaskFlow]
+Link Proyek: [https://github.com/username/taskflow](https://github.com/username/taskflow)
 
 ## 🙏 Ucapan Terima Kasih
 
