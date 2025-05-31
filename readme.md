@@ -98,9 +98,9 @@ Distribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut
 
 ## 📞 Kontak
 
-Avail Dwi Febrianto - [@availdwi](https://twitter.com/availdwi)
+Avail Dwi Febrianto - [@avdprojecthub]
 
-Link Proyek: [https://github.com/username/taskflow](https://github.com/username/taskflow)
+Link Proyek: [https://github.com/xfbriianto/TaskFlow]
 
 ## 🙏 Ucapan Terima Kasih
 
